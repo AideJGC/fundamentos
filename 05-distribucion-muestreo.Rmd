@@ -277,4 +277,3 @@ Nótese que esto es muy diferente, por ejemplo, a la desviación estándar
 poblacional o de una muestra. Estas dos cantidades miden la variabilidad del
 estimador del total.
 
-## Calculando la distribución de muestreo {-}
